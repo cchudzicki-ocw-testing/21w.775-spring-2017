@@ -1,7 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
+ocw_type: ''
 parent_title: Essay 3
 parent_type: CourseSection
 parent_uid: 9305c794-9837-e7fa-1ebe-540f1e607425
